@@ -1,0 +1,2 @@
+Hello!
+This is a tiny piece of software I wrote that allows you to do your Biology homework faster. To access the program, go into build/exe.win32-3.6 and then open the dna.exe file. **PROGRAM ONLY WORKS IN WINDOWS CURRENTLY**
